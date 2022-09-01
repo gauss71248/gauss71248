@@ -1,6 +1,17 @@
 - 👋 Hi, I’m Sebastian Schlesinger
-- 👀 I’m interested in Software Engineering, Machine Learning, and Security
+- I'm a professor of Computer Science at the Berlin School of Economics and Law
+- I'm currently preparing my lectures in 
+  - Networking (BS)
+  - Operating Systems (BS)
+  - Theoretical Foundations of Computer Science (BS)
+  - Digital Technologies (MS)
+  - IT Infrastructures (computing architectures, operating systems, networking (BS)
+  - IT Security (BS)
+- My research is primarily
+  - in the intersection of security and machine learning, and
+  - formal verification of machine learning-supported model driven engineering for embedded systems
+- 👀 I’m interested in Software Engineering, Machine Learning, Infrastructure, and Security
 - 🌱 I’m currently learning pytorch, Machine Learning pipelines, AWS
 - 💞️ I’m looking to collaborate on Machine Learning and Security topics.
-- 📫 How to reach me Sebastian.Schlesinger@Sebastian-Schlesinger.de
+- 📫 How to reach me Sebastian.Schlesinger@hwr-berlin.de
 
